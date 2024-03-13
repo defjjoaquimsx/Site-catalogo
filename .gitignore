@@ -1,0 +1,46 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+site-catalogo/README.md
+site-catalogo/src/index.css
+site-catalogo/src/App.test.js
+site-catalogo/src/App.js
+site-catalogo/src/App.css
+site-catalogo/public/robots.txt
+site-catalogo/public/manifest.json
+site-catalogo/public/logo192.png
+site-catalogo/public/logo512.png
+site-catalogo/public/index.html
+site-catalogo/public/favicon.ico
+site-catalogo/package.json
+site-catalogo/package-lock.json
+site-catalogo/src/index.js
+site-catalogo/src/logo.svg
+site-catalogo/src/reportWebVitals.js
+site-catalogo/src/setupTests.js
+Wizard-Hat/Porfolio/
+DevSamurai/JavaScript/PingPong/index.html
+HTML-CSS/projetocordel/projetocordel/
+HTML-CSS/Tela-de-Login/
+Projeto-python-CadastroClientes/Cadastro-Clientes-Python/
+site-catalogo/package-lock.json
